@@ -19,6 +19,3 @@ This project demonstrates various Android IPC mechanisms, including Messenger, b
 - Foreground service demo
 - Custom permissions for service binding
 
-## License
-
-MIT
